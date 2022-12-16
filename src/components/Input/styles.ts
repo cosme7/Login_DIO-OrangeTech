@@ -14,6 +14,7 @@ export const InputContainer = styled.div`
     & input {
         width: 100%;
         height: 42px;
+        font-size: 1rem;
         border-radius: 21px;
         background-color: transparent;
         border: 0;
